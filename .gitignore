@@ -1,0 +1,7 @@
+**.aux
+**.fdb_latexmk
+**.fls
+/latex/*.log
+/latex/*.gz
+introduce.md
+summarize QUBO.md
